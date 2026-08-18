@@ -1,0 +1,198 @@
+{
+  "boy": "赵瑞轩",
+  "girl": "高咏",
+  "loveDate": "2023-07-14",
+  "meetDate": "2022-12-30",
+  "milestones": [
+    {
+      "date": "2022-12-30",
+      "label": "认识第一天",
+      "icon": "🤝",
+      "story": "我们初次相遇，故事自此开篇。"
+    },
+    {
+      "date": "2023-07-14",
+      "label": "相恋第一天",
+      "icon": "💕",
+      "story": "正式牵手，开启专属我们的恋爱旅程。"
+    },
+    {
+      "date": "2025-07-14",
+      "label": "恋爱二周年",
+      "icon": "🎉",
+      "story": "相伴两周年，岁岁年年，爱意只增不减。"
+    },
+    {
+      "date": "2025-10-06",
+      "label": "2025中秋节",
+      "icon": "🌕",
+      "story": "月圆人相伴，共度温馨中秋。"
+    },
+    {
+      "date": "2026-05-21",
+      "label": "2026年521",
+      "icon": "❤️",
+      "story": "爱意满满的一天，好好陪伴彼此。"
+    },
+    {
+      "date": "2026-08-19",
+      "label": "2026七夕节",
+      "icon": "💌",
+      "story": "七夕相逢，与心爱之人共度良辰。"
+    }
+  ],
+  "quotes": [
+    "始于初见，止于终老",
+    "愿有岁月可回首，且以深情共白头",
+    "斯人若彩虹，遇上方知有",
+    "春风十里，不如你",
+    "与君初相识，犹如故人归",
+    "愿得一心人，白首不相离",
+    "十年如一日，一日胜十年",
+    "柴米油盐是你，星辰大海也是你",
+    "执子之手，与子偕老",
+    "岁月漫长，有你便是归途",
+    "从青丝到白发，从心动到心安",
+    "一屋两人三餐四季，十年如故",
+    "平淡日子里，你是最温柔的惊喜"
+  ],
+  "music": {
+    "enabled": false,
+    "autoPlay": false,
+    "playMode": "sequence",
+    "allowModeSwitch": true,
+    "startPolicy": "first",
+    "volume": 0.7,
+    "rememberState": true,
+    "smartShuffleWindow": 3,
+    "tracks": []
+  },
+  "secretMessage": "感谢相遇，余生请多指教。♥",
+  "photos": [],
+  "googleAnalyticsId": "",
+  "siteUrl": "https://love.example.com",
+  "siteName": "瑞轩 & 高咏 专属纪念页",
+  "siteLocale": "zh-CN",
+  "seoDescription": "赵瑞轩与高咏专属纪念页面，相识于2022年12月30日，相恋于2023年7月14日，记录我们所有美好时刻与专属纪念日。",
+  "siteImage": "/og.png",
+  "siteLogo": "/favicon.svg",
+  "iosStartupImages": [
+    {
+      "src": "/og.png",
+      "media": "(device-width: 390px) and (device-height: 844px) and (-webkit-device-pixel-ratio: 3)"
+    },
+    {
+      "src": "/og.png",
+      "media": "(device-width: 430px) and (device-height: 932px) and (-webkit-device-pixel-ratio: 3)"
+    }
+  ],
+  "shareTemplates": ["classic", "minimal", "romantic"],
+  "statsMode": "hybrid",
+  "stats": [
+    {
+      "label": "一起旅行",
+      "value": 0,
+      "icon": "✈️"
+    },
+    {
+      "label": "共同爱好",
+      "value": 0,
+      "icon": "🎯"
+    },
+    {
+      "label": "纪念日",
+      "value": 4,
+      "icon": "💕"
+    }
+  ],
+  "wishes": [],
+  "timers": [
+    {
+      "label": "相识时光",
+      "icon": "🤝",
+      "date": "2022-12-30"
+    },
+    {
+      "label": "相恋时光",
+      "icon": "💕",
+      "date": "2023-07-14"
+    }
+  ],
+  "includeDefaultAnniversaries": false,
+  "anniversaries": [
+    {
+      "label": "情人节",
+      "icon": "🌹",
+      "date": "02-14",
+      "easterEggTemplates": {
+        "soon": "🌹 距离情人节还有{gap}天，准备好小惊喜吧~",
+        "today": "🌹 情人节快乐，我的偏爱永远是你！",
+        "celebrate": "情人节快乐，岁岁年年，身边始终是你。"
+      }
+    },
+    {
+      "label": "521纪念日",
+      "icon": "❤️",
+      "date": "05-21",
+      "easterEggTemplates": {
+        "soon": "❤️ 距离521还有{gap}天，爱意提前预备~",
+        "today": "❤️ 521快乐，满心欢喜，皆因有你。",
+        "celebrate": "521快乐，我爱你，不止今天。"
+      }
+    },
+    {
+      "label": "相恋纪念日",
+      "icon": "💕",
+      "date": "2023-07-14",
+      "easterEggTemplates": {
+        "soon": "💗 距离我们相恋纪念日还有{gap}天，期待相伴又一年~",
+        "today": "💗 相恋纪念日快乐，感谢一路相伴。",
+        "celebrate": "相恋纪念日快乐，来日方长，我们慢慢相爱。"
+      }
+    },
+    {
+      "label": "七夕节",
+      "icon": "💌",
+      "date": "08-19",
+      "easterEggTemplates": {
+        "soon": "💌 距离七夕还有{gap}天，共度浪漫佳节。",
+        "today": "💌 七夕快乐，有你便是最好的浪漫。",
+        "celebrate": "七夕安康，年年七夕，与你相守。"
+      }
+    }
+  ],
+  "anniversaryCountdownThreshold": 10,
+  "anniversarySortOrder": "asc",
+  "loadingLabel": "正在为你准备专属回忆...",
+  "sections": {
+    "todaySummary": true,
+    "stats": true,
+    "timeline": true,
+    "timers": true,
+    "anniversary": true,
+    "wishes": false,
+    "photoWall": false,
+    "themeToggle": true
+  },
+  "privacy": {
+    "privateMode": true,
+    "noIndex": true
+  },
+  "defaultTheme": "dark",
+  "welcomeMessage": "欢迎来到赵瑞轩 & 高咏的专属空间 ♥",
+  "enableWelcomeMessage": true,
+  "passwordConfig": {
+    "enabled": false,
+    "password": "",
+    "hint": "请输入访问密码",
+    "successMessage": "欢迎进入我们的专属空间 ❤️",
+    "errorMessage": "密码好像不太对哦，再试试看？",
+    "bruteForceProtection": {
+      "enabled": true,
+      "freeAttempts": 5,
+      "baseLockSeconds": 3,
+      "maxLockSeconds": 120,
+      "failureResetMinutes": 30
+    }
+  }
+}
