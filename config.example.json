@@ -1,32 +1,44 @@
 {
-  "boy": "Mr Li",
-  "girl": "Mrs Wang",
-  "loveDate": "2020-01-01",
-  "marriageDate": "2022-05-20",
+  "boy": "赵瑞轩",
+  "girl": "高咏",
+  "loveDate": "2023-07-14",
+  "meetDate": "2022-12-30",
   "milestones": [
     {
-      "date": "2020-01-01",
-      "label": "相恋",
+      "date": "2022-12-30",
+      "label": "认识第一天",
+      "icon": "🤝",
+      "story": "我们初次相遇，故事自此开篇。"
+    },
+    {
+      "date": "2023-07-14",
+      "label": "相恋第一天",
       "icon": "💕",
-      "story": "那天我们在一起了，从此每一天都多了一份牵挂。"
+      "story": "正式牵手，开启专属我们的恋爱旅程。"
     },
     {
-      "date": "2022-05-20",
-      "label": "领证",
-      "icon": "💑",
-      "story": "拿着小红本走出民政局，阳光正好。从此我们是法律意义上的「我们」了。"
+      "date": "2025-07-14",
+      "label": "恋爱二周年",
+      "icon": "🎉",
+      "story": "相伴两周年，岁岁年年，爱意只增不减。"
     },
     {
-      "date": "2022-10-01",
-      "label": "婚礼",
-      "icon": "💍",
-      "story": "在亲友的见证下，我们许下誓言。"
+      "date": "2025-10-06",
+      "label": "2025中秋节",
+      "icon": "🌕",
+      "story": "月圆人相伴，共度温馨中秋。"
     },
     {
-      "date": "2023-01-15",
-      "label": "蜜月",
-      "icon": "✈️",
-      "story": "第一次一起远行，留下美好回忆。"
+      "date": "2026-05-21",
+      "label": "2026年521",
+      "icon": "❤️",
+      "story": "爱意满满的一天，好好陪伴彼此。"
+    },
+    {
+      "date": "2026-08-19",
+      "label": "2026七夕节",
+      "icon": "💌",
+      "story": "七夕相逢，与心爱之人共度良辰。"
     }
   ],
   "quotes": [
@@ -56,33 +68,12 @@
     "tracks": []
   },
   "secretMessage": "感谢相遇，余生请多指教。♥",
-  "photos": [
-    {
-      "url": "https://images.unsplash.com/photo-1519741497674-611481863552?w=400&h=400&fit=crop",
-      "caption": "婚礼"
-    },
-    {
-      "url": "https://images.unsplash.com/photo-1522673607200-164d1b6ce486?w=400&h=400&fit=crop",
-      "caption": "相伴"
-    },
-    {
-      "url": "https://images.unsplash.com/photo-1529634002551-f0d0d940c0e5?w=400&h=400&fit=crop",
-      "caption": "誓言"
-    },
-    {
-      "url": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=400&h=400&fit=crop",
-      "caption": "牵手"
-    },
-    {
-      "url": "https://images.unsplash.com/photo-1511285560929-80b456fea0e9?w=400&h=400&fit=crop",
-      "caption": "幸福"
-    }
-  ],
+  "photos": [],
   "googleAnalyticsId": "",
   "siteUrl": "https://love.example.com",
-  "siteName": "Love Page",
+  "siteName": "瑞轩 & 高咏 专属纪念页",
   "siteLocale": "zh-CN",
-  "seoDescription": "Mr Li 与 Mrs Wang 专属爱页面 · 相恋于 2020，结婚于 2022，始于初见，止于终老。记录我们的恋爱与婚姻时光、里程碑故事与纪念日倒计时。",
+  "seoDescription": "赵瑞轩与高咏专属纪念页面，相识于2022年12月30日，相恋于2023年7月14日，记录我们所有美好时刻与专属纪念日。",
   "siteImage": "/og.png",
   "siteLogo": "/favicon.svg",
   "iosStartupImages": [
@@ -100,90 +91,87 @@
   "stats": [
     {
       "label": "一起旅行",
-      "value": 12,
+      "value": 0,
       "icon": "✈️"
     },
     {
       "label": "共同爱好",
-      "value": 8,
+      "value": 0,
       "icon": "🎯"
     },
     {
       "label": "纪念日",
-      "value": 2,
+      "value": 4,
       "icon": "💕"
     }
   ],
-  "wishes": [
-    {
-      "text": "一起去冰岛看极光",
-      "done": false
-    },
-    {
-      "text": "每年拍一张合影",
-      "done": true
-    },
-    {
-      "text": "一起学一门新技能",
-      "done": false
-    }
-  ],
+  "wishes": [],
   "timers": [
+    {
+      "label": "相识时光",
+      "icon": "🤝",
+      "date": "2022-12-30"
+    },
     {
       "label": "相恋时光",
       "icon": "💕",
-      "date": "2020-01-01"
-    },
-    {
-      "label": "婚姻时光",
-      "icon": "💍",
-      "date": "2022-05-20"
+      "date": "2023-07-14"
     }
   ],
   "includeDefaultAnniversaries": false,
   "anniversaries": [
     {
+      "label": "情人节",
+      "icon": "🌹",
+      "date": "02-14",
+      "easterEggTemplates": {
+        "soon": "🌹 距离情人节还有{gap}天，准备好小惊喜吧~",
+        "today": "🌹 情人节快乐，我的偏爱永远是你！",
+        "celebrate": "情人节快乐，岁岁年年，身边始终是你。"
+      }
+    },
+    {
+      "label": "521纪念日",
+      "icon": "❤️",
+      "date": "05-21",
+      "easterEggTemplates": {
+        "soon": "❤️ 距离521还有{gap}天，爱意提前预备~",
+        "today": "❤️ 521快乐，满心欢喜，皆因有你。",
+        "celebrate": "521快乐，我爱你，不止今天。"
+      }
+    },
+    {
       "label": "相恋纪念日",
       "icon": "💕",
-      "date": "2020-01-01",
+      "date": "2023-07-14",
       "easterEggTemplates": {
-        "soon": "💗 距离我们的{displayLabel}还有{gap}天，期待更多美好时光~",
-        "today": "💗 今天是我们的{displayLabel}，感谢陪伴，爱你如初！",
-        "celebrate": "{displayLabel}快乐！愿我们的爱永远甜蜜如初见~"
+        "soon": "💗 距离我们相恋纪念日还有{gap}天，期待相伴又一年~",
+        "today": "💗 相恋纪念日快乐，感谢一路相伴。",
+        "celebrate": "相恋纪念日快乐，来日方长，我们慢慢相爱。"
       }
     },
     {
-      "label": "结婚纪念日",
-      "icon": "💍",
-      "date": "2022-05-20",
+      "label": "七夕节",
+      "icon": "💌",
+      "date": "08-19",
       "easterEggTemplates": {
-        "soon": "💍 {gap}天后就是{displayLabel}，一起憧憬下个纪念日~",
-        "today": "💍 今天是我们的{displayLabel}，感谢携手同行！",
-        "celebrate": "{displayLabel}快乐！愿此生执子之手，与子偕老。"
-      }
-    },
-    {
-      "label": "蜜月纪念日",
-      "icon": "✈️",
-      "date": "2023-01-15",
-      "easterEggTemplates": {
-        "soon": "✈️ 再过 {gap} 天就是{displayLabel}，期待下一次旅行~",
-        "today": "✈️ 今天就是{displayLabel}，纪念我们的第一次远行！",
-        "celebrate": "{displayLabel}快乐，愿我们永远在路上"
+        "soon": "💌 距离七夕还有{gap}天，共度浪漫佳节。",
+        "today": "💌 七夕快乐，有你便是最好的浪漫。",
+        "celebrate": "七夕安康，年年七夕，与你相守。"
       }
     }
   ],
   "anniversaryCountdownThreshold": 10,
   "anniversarySortOrder": "asc",
-  "loadingLabel": "正在为你准备...",
+  "loadingLabel": "正在为你准备专属回忆...",
   "sections": {
     "todaySummary": true,
     "stats": true,
     "timeline": true,
     "timers": true,
     "anniversary": true,
-    "wishes": true,
-    "photoWall": true,
+    "wishes": false,
+    "photoWall": false,
     "themeToggle": true
   },
   "privacy": {
@@ -191,7 +179,7 @@
     "noIndex": true
   },
   "defaultTheme": "dark",
-  "welcomeMessage": "欢迎来到我们的专属页面 ♥",
+  "welcomeMessage": "欢迎来到赵瑞轩 & 高咏的专属空间 ♥",
   "enableWelcomeMessage": true,
   "passwordConfig": {
     "enabled": false,
