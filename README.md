@@ -278,7 +278,7 @@ git push origin feature/amazing-feature
   <a href="https://github.com/funnyzak/love-page/stargazers">
     <img src="https://api.star-history.com/svg?repos=funnyzak/love-page&type=Date" alt="Star History" width="80%">
   </a>
-</p>
+</p> 
 
 <p align="center">
   如果这个项目对你有帮助，请给一个 ⭐️ 支持一下！
